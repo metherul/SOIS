@@ -2,7 +2,6 @@
 ### A completely open-source and community managed animation system alternative
 
 Plans / TODO:
-- [ ] Engineer new patching system for source and template files
 - [ ] Figure out the patching system -- this stuff is complicated, and may take a while
 - [ ] Compilation needs to be worked on, need to engineer either a bridge between old FNIS template files and any possible newer replacements
 - [ ] Backend code needs to be written, tested and trialed
